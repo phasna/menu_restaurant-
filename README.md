@@ -21,9 +21,7 @@ flutter run
 ```
 
 ## Captures d'écran
-<!-- mettre les captures dans un dossier screenshots/ -->
-![portrait](screenshots/portrait.png)
-![paysage](screenshots/paysage.png)
+![Capture de l'application](video%20photo/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202026-10-11%20at%2016.17.03.png)
 
 ## Vidéo
-<!-- lien vers la vidéo -->
+[▶️ Voir la vidéo de démonstration](video%20photo/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Pro%20-%202026-10-11%20at%2016.18.45.mp4)
